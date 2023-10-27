@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"Cinematographer": "UnrealEditor-Cinematographer.dll",
+		"CinematographerEditor": "UnrealEditor-CinematographerEditor.dll"
+	}
+}
